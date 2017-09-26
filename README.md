@@ -11,7 +11,7 @@
 This is version 3.0 of MKNetworkKit. 
 Version 3 is a complete rewrite loosely based on [version 2](https://github.com/MugunthKumar/MKNetworkKit) that was released in October 2015.
 
-###Why MKNetworkKit?
+### Why MKNetworkKit?
 Actually, you don't need a networking framework today (post iOS 7). We live in the era of `URLSession` and with networking becoming a core feature of every app, you need to know how to write a good networking stack without using a third party library.
 
 Now, you may ask, So, why are there so many networking frameworks? Almost every iOS developer I know uses one or the other networking library.
@@ -43,7 +43,7 @@ In addition to the above, MKNetworkKit has the following features.
 
 ---
 
-###Installation
+### Installation
 #### Manual
 1. Add this repository as a submodule in your project.
 2. Drag the `Core` directory into your  project. 
@@ -58,8 +58,8 @@ Run `carthage update` to build the framework and drag the built `MKNetworkKit.fr
 
 Version 1 of this release is available as a tag [here](https://github.com/MugunthKumar/MKNetworkKit-Swift/tree/v1) for Cocoapods users.
 
-###How to use
+### How to use
 Documentation will soon be available on the [wiki page](https://github.com/MugunthKumar/MKNetworkKit-Swift/wiki)
 
-###Licensing
+### Licensing
 MKNetworkKit is licensed under MIT License. Attribution free licensing is available for a small license fee. Get an attribution free license from our [license store](http://blog.mugunthkumar.com/license-store/)
